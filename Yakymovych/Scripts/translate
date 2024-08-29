@@ -1,4 +1,4 @@
-#!D:\LabJavaAndPython\Нова папка\Yakymovych\Scripts\python.exe
+#!D:\LabPython\Python\Yakymovych\Scripts\python.exe
 # -*- coding: utf-8 -*-
 import argparse
 import sys

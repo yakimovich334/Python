@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=D:\LabJavaAndPython\Нова папка\Yakymovych
+set VIRTUAL_ENV=D:\LabPython\Python\Yakymovych
 
 if not defined PROMPT set PROMPT=$P$G
 

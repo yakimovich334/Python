@@ -35,7 +35,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="D:\LabJavaAndPython\Нова папка\Yakymovych"
+VIRTUAL_ENV="D:\LabPython\Python\Yakymovych"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
