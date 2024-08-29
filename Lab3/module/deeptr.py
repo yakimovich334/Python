@@ -62,6 +62,4 @@ def LanguageList(out: str = "screen", text: str = None) -> str:
     except Exception as e:
         return f"Помилка виводу таблиці: {str(e)}"
 
-# Демонстрація роботи функцій
-if __name__ == "__main__":
-    print(LanguageList("screen", "Добрий день"))
+
